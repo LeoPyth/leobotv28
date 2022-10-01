@@ -48,27 +48,27 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/irfaanabdulhafizh' //Link Instagrammu
-global.sgh = 'https://github.com/Alfarabotz567' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/CMJv1GXTUht1A1be7ocTY2'
+global.sig = 'https://instagram.com/-' //Link Instagrammu
+global.sgh = 'https://github.com/LeoPyth' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/CMJv1GXTUht1A1be7ocTY'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '089531704997' //Nomor Danamu
-global.ppulsa = '081646829895' //Nomor SimCard Yang Kamu Pake
-global.psaweria = 'https://saweria.co/Irfaan567' //Link Saweriamu Kalo Nggada Ketik - aja
+global.pdana = '087824899711' //Nomor Danamu
+global.ppulsa = '087824899711' //Nomor SimCard Yang Kamu Pake
+global.psaweria = 'https://saweria.co/LeoPyth' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6289531704997' //Nomor Bot
-global.nomorown = '6285624823115' //Nomor Owner
-global.namebot = 'Alfarabotz' //Nama Bot
-global.nameown = 'Irfaan Official' // Nama Owner
+global.nomorbot = '6287824899711' //Nomor Bot
+global.nomorown = '6287824899711' //Nomor Owner
+global.namebot = 'Maxxy Botz' //Nama Bot
+global.nameown = 'Leo' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285624823115', '❦ 𝚇 𝚒 𝚊 𝚘 - 𝚈𝚊𝚗? 🎐', true] //Ganti jd nomormu sama Namamu
+  ['62878248997@@', '❦ 𝚇 𝚒 𝚊 𝚘 - 𝚈𝚊𝚗? 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -100,9 +100,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 ᴀʟғᴀʀᴀʙᴏᴛᴢ 汉  」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ɪʀғᴀᴀɴ - ᴏғғɪᴄɪᴀʟ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ᴀʟғᴀʀᴀʙᴏᴛᴢ'
+global.wm = '                「 𝑴 𝒂 𝒂 𝒙 𝒚 𝑩 𝒐 𝒕 𝒛 克 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Leo˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ 𝑴 𝒂 𝒂 𝒙 𝒚 𝑩 𝒐 𝒕 𝒛 '
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
@@ -369,9 +369,9 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\nᴀʟғᴀʀᴀʙᴏᴛᴢ\nWhatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎\n𝑴 𝒂 𝒂 𝒙 𝒚 𝑩 𝒐 𝒕 𝒛 \nWhatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀʟғᴀʀᴀʙᴏᴛᴢ'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ 𝑴 𝒂 𝒂 𝒙 𝒚 𝑩 𝒐 𝒕 𝒛 '
 
 global.multiplier = 38 // The higher, The harder levelup
 
